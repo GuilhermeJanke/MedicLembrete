@@ -1,0 +1,6 @@
+@MedicLembrete.Api_HostAddress = http://localhost:5101
+
+GET {{MedicLembrete.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
